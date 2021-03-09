@@ -21,3 +21,8 @@ Once you've activated the virtual environments, the following command will insta
 ```
 pip install -r requirements.txt
 ```
+
+## Future Improvements
+- [ ] Add Gen. 7 & Gen. 8 Pokémon to database
+- [ ] Add ability to look up Pokémon by name
+- [ ] Shut down bot & database properly
